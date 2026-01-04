@@ -2,10 +2,11 @@
   <tr>
     <h1>Hi 👋, I'm Alexis BONNARD </h1>
     <h3>Software engineering and computer science student at 42Nice</h3>
+    <h3>Freelance dev, currently working with ADKS</h3>
     <ul>
-      <li>🔭 I’m currently working on <strong>C++ Piscine</strong></li>
-      <li>🌱 I’m currently learning <strong>C++ and Docker</strong></li>
-      <li>📫 How to reach me: <strong>abonnard@student.42nice.fr</strong></li>
+      <li>🔭 I’m currently working on <strong>Freelance work and 42 projects</strong></li>
+      <li>🌱 I’m currently learning <strong>C++ and Rust</strong></li>
+      <li>📫 How to reach me: <strong>abonnard.dev@outlook.com</strong></li>
       <li>⚡ Fun fact: <strong>Rock/metal enjoyer, MTB rider</strong></li>
     </ul>
   </tr>
