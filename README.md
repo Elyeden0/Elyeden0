@@ -4,8 +4,8 @@
     <h3>Software engineering and computer science student at 42Nice</h3>
     <h3>Freelance dev, currently working with ADKS</h3>
     <ul>
-      <li>🔭 I’m currently working on <strong>Freelance work and 42 projects</strong></li>
-      <li>🌱 I’m currently learning <strong>C++ and Rust</strong></li>
+      <li>🔭 I’m currently working on <strong>Freelance work and 42 outer-core projects</strong></li>
+      <li>🌱 I’m currently learning <strong>C++, Python and Rust</strong></li>
       <li>📫 How to reach me: <strong>abonnard.dev@outlook.com</strong></li>
       <li>⚡ Fun fact: <strong>Rock/metal enjoyer, MTB rider</strong></li>
     </ul>
