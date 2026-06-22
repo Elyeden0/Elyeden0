@@ -2,8 +2,8 @@
   <tr>
     <h1>Hi 👋, I'm Alexis BONNARD </h1>
     <h3>Software engineering and computer science student at 42Nice</h3>
-    <h3>Freelance dev, currently working with ADKS</h3>
-    <h3>Looking for internship</h3>
+    <h3>Freelance dev</h3>
+    <h3>Internship at Bureau Veritas Cybersecurity starting September 1st</h3>
     <ul>
       <li>🔭 I’m currently working on <strong>Freelance work and 42 outer-core projects</strong></li>
       <li>🌱 I’m currently learning <strong>C++, Python and Rust</strong></li>
