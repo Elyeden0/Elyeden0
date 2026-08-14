@@ -5,8 +5,7 @@
     <h3>Freelance dev</h3>
     <h3>Internship at Bureau Veritas Cybersecurity starting September 1st</h3>
     <ul>
-      <li>🔭 I’m currently working on <strong>Freelance work and 42 outer-core projects</strong></li>
-      <li>🌱 I’m currently learning <strong>C++, Python and Rust</strong></li>
+      <li>🔭 I’m currently working on <strong>Freelance work, personal projects and 42 outer-core projects</strong></li>
       <li>📫 How to reach me: <strong>abonnard.dev@outlook.com</strong></li>
       <li>⚡ Fun fact: <strong>Rock/metal enjoyer, MTB rider</strong></li>
     </ul>
@@ -44,8 +43,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Elyeden0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Elyeden0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
