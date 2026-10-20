@@ -5,6 +5,7 @@
     <h3>Freelance dev / Intern at Bureau Veritas Cybersecurity</h3>
     <ul>
       <li>🔭 I’m currently working on <strong>Bureau Veritas Cybersecurity Internship, personal projects and 42 outer-core projects</strong></li>
+      <li>🛡️ I care a lot about <strong> digital sovereignty,</strong>: who hosts your data, and which governments can legally reach it. Test your own site's sovereignty with <a href="https://abonnard.dev/sovereignscan">SovereignScan</a></li
       <li>📫 How to reach me: <strong>abonnard.dev@outlook.com</strong></li>
       <li>⚡ Fun fact: <strong>Rock/metal enjoyer, MTB rider</strong></li>
     </ul>
